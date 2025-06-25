@@ -18,4 +18,4 @@ I can help you generate that too if needed.
 ---
 
 Want help writing a proper `README`, `docker-compose.yml`, or setting up GitHub Actions? Just say the word.
-Anjan Arora
+Anjan 
